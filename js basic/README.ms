@@ -4,3 +4,5 @@
 // Scope	Function or global	Block	Block
 // Hoisted?	Yes, initialized as undefined	Yes, but inaccessible before declaration	Yes, but inaccessible before declaration
 // Must initialize immediately?	No	No	Yes
+
+

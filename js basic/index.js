@@ -154,12 +154,12 @@
 
 // console.log(first, second);
 
-let retries = 3;
+// let retries = 3;
 
-{
-  console.log(retries);
+// {
+//   console.log(retries);
 
-  var retries = 5;
-}
+//   var retries = 5;
+// }
 
-console.log(retries);
+// console.log(retries);
